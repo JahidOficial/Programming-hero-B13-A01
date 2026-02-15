@@ -223,3 +223,45 @@ nav ul li a:hover{
     font-size: 16px;
     color: #3e3e3e;
 }
+
+
+
+/* early access section */
+.early-access{
+    width: 100%;
+}
+.early-access .container{
+   background-color: #f7f6f2;
+   text-align: center;
+   padding: 80px 40px;
+   margin-bottom: 120px;
+}
+.early-access .early-access-heading{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+.early-access .early-access-heading h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.early-access .early-access-heading p{
+    font-size: 16px;
+    color: #3e3e3e;
+    width:45%;
+    margin: auto;
+}
+.early-access .button-content{
+    margin-top: 24px;
+}
+.early-access .button-content .btn{
+    margin-bottom: 16px;
+}
+.early-access .button-content p{
+    font-size: 16px;
+    color: #3e3e3e;
+}
+
+
+
